@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    background-color: #ee9004;
+    color: white;
+    padding: 20px
+}
+nav ul{
+    background-color: rgba(252, 186, 5, 0.658);
+    width: auto;
+    list-style-type: none;
+    text-align: center;
+}
+nav li{
+    display: inline-flex;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    width: 150px;
+    }
+nav li:hover {
+        background-color: white;
+    }
+    
+    img {
+        width: 500px;
+        height: 200px;
+        border-radius: 10%;
+        object-fit:cover ;
+}
+.contenido{
+    display: flex;
+    margin: 60px;
+}
+p {
+    text-align: center;
+}
+.secciones{
+    display:flex ;
+    align-items: center;
+    padding: 40px;
+}
+footer {
+    width: auto;
+    height: 200px;
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+}
+footer p{
+    text-align: center;
+    padding: 11px;
+}
+.aspirantes {
+    padding: 0;
+    margin: auto;
+}
+h3 {
+    text-align: center;
+    background-color: green;
+    color: white;
+    padding: 20px;
+    width: auto;
+}
+h4{
+    text-align: center;
+    background-color: #ee9004;
+    color: white;
+    padding: 20px;
+    width: auto;
+}
+h5 {
+    text-align: center;
+    color: white;
+    background-color: #ee9004;
+    padding: 20px;
+    width: auto;
+}
+informacion.html{
+    width: 500px;
+    height: 200px;
+    object-fit:cover ;
+
+}
